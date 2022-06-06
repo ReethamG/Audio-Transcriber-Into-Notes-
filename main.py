@@ -1,7 +1,9 @@
 import functions
 
+
 def run():
-    pass  
+    functions.getAudio()
+
 
 if __name__ == '__main__':
     run()
