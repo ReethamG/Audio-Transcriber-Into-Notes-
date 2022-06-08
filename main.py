@@ -2,7 +2,7 @@ import functions
 
 
 def run():
-    functions.getAudio()
+    functions.getAudioUsingMicro()
 
 
 if __name__ == '__main__':
