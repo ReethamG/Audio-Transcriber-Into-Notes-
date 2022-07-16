@@ -2,7 +2,7 @@ import functions
 
 
 def run():
-    functions.getAudioUsingMicro()
+    functions.getOnsetTimes('isolatedVocals.mp3')
 
 
 if __name__ == '__main__':
